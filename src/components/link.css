@@ -1,0 +1,15 @@
+.dash {
+    color:black;
+    font-size:35px;
+
+}
+.no-dash {
+    color: black;
+    font-size:35px;
+    text-decoration:none;
+}
+.with-color {
+    color: #0099cc;
+    font-size:35px;
+    font-style:italic;
+}
